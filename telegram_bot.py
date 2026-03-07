@@ -6,7 +6,7 @@ import pytz
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-BOT_TOKEN = "8690388308:AAFk837Z_ajcRwpMTrynlCaYTtGr-3QIEjE"
+BOT_TOKEN = "your api key "
 API_URL = "https://ekadashi-api.onrender.com/"
 
 IST = pytz.timezone("Asia/Kolkata")
