@@ -7,7 +7,7 @@ A **complete Ekadashi calculation system** consisting of:
 * 🤖 **Telegram Reminder Bot**
 * 🔭 **Astronomically accurate calculations**
 
-This project calculates **Ekadashi dates using astronomical moon–sun positions**, rather than relying on static tables.
+This project calculates **Ekadashi dates using astronomical moon–sun positions**, rather than relying on static tables..
 
 ---
 
